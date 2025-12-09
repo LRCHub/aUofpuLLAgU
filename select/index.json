@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "君が嫌いだ",
+  "base_artist": "DECO*27",
+  "createdAt": "2025-12-09T07:59:13.669769Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君が嫌いだ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/01_君が嫌いだ_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm Sick of You - 君が嫌いだ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_I'm_Sick_of_You_-_君が嫌いだ_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君が嫌いだ",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_君が嫌いだ_DECO_27.txt"
+    }
+  ]
+}
